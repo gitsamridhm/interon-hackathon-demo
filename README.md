@@ -179,7 +179,7 @@ TriageAI/
 
 ## 👥 Team
 
-Built by Team [Your Team Name] for the Interon GenAI Hackathon 2026.
+Built by Team Sammy's Squad for the Interon GenAI Hackathon 2026.
 
 ---
 
